@@ -42,7 +42,7 @@ Used for Both TASK1 and TASK2
 ### OBJECTIVES OF TASK1 AND TASK2
 
 ### Task1 Objectives: Exploratory and Statistical Analysis using Statistical Programming - R
-### Task2 Objective: Comparative Explanatory Analysis using Business Analytics Solution
+### Task2 Objective: Comparative Explanatory Analysis using Business Analytics Solution using POWERBI
 
 **********************************************************************************************
 

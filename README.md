@@ -1,4 +1,5 @@
 # Statistical Analysis and Interactive Dashboard Design
+# A Comprehensive Statistical Exploratory Analysis On Variations In The Employment Factors Influencing The GDP Per Worker$(More Precisely, GDP Per Employed Person) Between 3 Diverse Euro-African Countries During 2011-2020
 
 ## FILE SPECIFICATIONS
 
